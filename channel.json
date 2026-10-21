@@ -1,13 +1,20 @@
 {
   "schema": 1,
   "latest": {
-    "versionName": "1.2.6",
-    "versionCode": 2012,
-    "notes": "今天整列边框高亮改为可开关（默认关）",
-    "downloadUrl": "https://drive.google.com/file/d/1u-YrEmyuK1HQjv2i58zGJHwCaWEPJi77/view?usp=drivesdk",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.6"
+    "versionName": "1.2.7",
+    "versionCode": 2013,
+    "notes": "桌面小部件黑框修复（升级后请删除旧部件重新添加）",
+    "downloadUrl": "https://drive.google.com/file/d/1g6dmNSH3VUgiSeo6Teca2GyGr2T_Nhxr/view?usp=drivesdk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.7"
   },
   "announcements": [
+    {
+      "id": "ann-20261021-5",
+      "title": "1.2.7 已发布",
+      "body": "修复桌面小部件在部分机型上变黑框的问题。升级后请把旧小部件删除、重新添加一次。",
+      "date": "2026-10-21",
+      "level": "normal"
+    },
     {
       "id": "ann-20261021-4",
       "title": "1.2.6 已发布",
