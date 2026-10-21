@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "latest": {
+    "versionName": "1.2.3",
+    "versionCode": 2009,
+    "notes": "线条与分隔带重构、设置下拉化、单双周开关、行高自适应、今天列高亮、深色卡浅字",
+    "downloadUrl": "https://drive.google.com/file/d/1U7QrH0sEOTVuWmA6-NnJk3xYTx7v4WAy/view?usp=drivesdk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.3"
+  },
+  "announcements": [
+    {
+      "id": "ann-20261021-1",
+      "title": "公告功能上线",
+      "body": "从 1.2.4 版开始，这里会发布小马课表的更新与通知；关于页里也能随时检查更新了。",
+      "date": "2026-10-21",
+      "level": "normal"
+    }
+  ]
+}
