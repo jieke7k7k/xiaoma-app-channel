@@ -1,13 +1,20 @@
 {
   "schema": 1,
   "latest": {
-    "versionName": "1.2.3",
-    "versionCode": 2009,
-    "notes": "线条与分隔带重构、设置下拉化、单双周开关、行高自适应、今天列高亮、深色卡浅字",
-    "downloadUrl": "https://drive.google.com/file/d/1U7QrH0sEOTVuWmA6-NnJk3xYTx7v4WAy/view?usp=drivesdk",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.3"
+    "versionName": "1.2.4",
+    "versionCode": 2010,
+    "notes": "关于页、检查更新与公告上线；桌面快捷入口、首次引导、数据管理页",
+    "downloadUrl": "https://drive.google.com/file/d/1fdknOSaPZ7TqQqunoN3IM9_LY7YkRfOf/view?usp=drivesdk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.4"
   },
   "announcements": [
+    {
+      "id": "ann-20261021-2",
+      "title": "1.2.4 已发布",
+      "body": "新版带来了关于页、检查更新、公告、桌面快捷入口、首次启动引导和数据管理页。在「设置 → 关于小马课表」里可以检查更新。",
+      "date": "2026-10-21",
+      "level": "normal"
+    },
     {
       "id": "ann-20261021-1",
       "title": "公告功能上线",
