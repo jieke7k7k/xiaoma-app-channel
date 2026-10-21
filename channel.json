@@ -1,13 +1,20 @@
 {
   "schema": 1,
   "latest": {
-    "versionName": "1.2.5",
-    "versionCode": 2011,
-    "notes": "网格线开关修复、打开偶尔停在第一周修复、今天整列改边框高亮、新用户默认配色与自适应",
-    "downloadUrl": "https://drive.google.com/file/d/1lhvn6rnvFQGGK-oCua4alI5_TwGRPNcZ/view?usp=drivesdk",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.5"
+    "versionName": "1.2.6",
+    "versionCode": 2012,
+    "notes": "今天整列边框高亮改为可开关（默认关）",
+    "downloadUrl": "https://drive.google.com/file/d/1u-YrEmyuK1HQjv2i58zGJHwCaWEPJi77/view?usp=drivesdk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.6"
   },
   "announcements": [
+    {
+      "id": "ann-20261021-4",
+      "title": "1.2.6 已发布",
+      "body": "今天整列的边框高亮改成可开关了：在「设置 → 界面设置」里，默认关闭，想要的人打开即可。",
+      "date": "2026-10-21",
+      "level": "normal"
+    },
     {
       "id": "ann-20261021-3",
       "title": "1.2.5 已发布",
