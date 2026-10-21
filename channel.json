@@ -1,13 +1,20 @@
 {
   "schema": 1,
   "latest": {
-    "versionName": "1.2.4",
-    "versionCode": 2010,
-    "notes": "关于页、检查更新与公告上线；桌面快捷入口、首次引导、数据管理页",
-    "downloadUrl": "https://drive.google.com/file/d/1fdknOSaPZ7TqQqunoN3IM9_LY7YkRfOf/view?usp=drivesdk",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.4"
+    "versionName": "1.2.5",
+    "versionCode": 2011,
+    "notes": "网格线开关修复、打开偶尔停在第一周修复、今天整列改边框高亮、新用户默认配色与自适应",
+    "downloadUrl": "https://drive.google.com/file/d/1lhvn6rnvFQGGK-oCua4alI5_TwGRPNcZ/view?usp=drivesdk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v1.2.5"
   },
   "announcements": [
+    {
+      "id": "ann-20261021-3",
+      "title": "1.2.5 已发布",
+      "body": "修复了网格线关不掉、打开偶尔停在第一周；今天的整列改成边框高亮；新用户默认马卡龙配色 + 可可棕主题 + 自适应行高。",
+      "date": "2026-10-21",
+      "level": "normal"
+    },
     {
       "id": "ann-20261021-2",
       "title": "1.2.4 已发布",
