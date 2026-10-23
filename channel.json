@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "latest": {
-    "versionName": "2.0.3",
-    "versionCode": 2018,
-    "notes": "2.0.3：AI桥设备码一键粘贴（自动复制+复制按钮）；设置页取消二级页，外观条目全部平铺到设置首页",
-    "downloadUrl": "https://drive.google.com/file/d/1Z0nWvUKpENV-ISNM5tEuZvi6yFqrZ-9O/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.3"
+    "versionName": "2.0.4",
+    "versionCode": 2019,
+    "notes": "2.0.4：AI桥连接GitHub改为App内打开输码页自动填码（点一下、登录授权、关页返回即连上）；浏览器手动输码保留为备用",
+    "downloadUrl": "https://drive.google.com/file/d/1gRQ20IqkmD0_LE0_3-TksRNsdSw59K92/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.4"
   },
   "announcements": [
     {
