@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "latest": {
-    "versionName": "2.0.1",
-    "versionCode": 2016,
-    "notes": "2.0.1：AI 桥改设备码登录（点一下输个码），单双周去重默认关，上课播报开关默认关，主页按钮缩小，AI 改名智能助手，设置页分类",
-    "downloadUrl": "https://drive.google.com/file/d/1sB3FOWJsXL3uQV6_KDzmiYwWzjAkfMhn/view?usp=drivesdk",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.1"
+    "versionName": "2.0.2",
+    "versionCode": 2017,
+    "notes": "2.0.2：修复冷启动误报没课、底栏三键等大去留白、设置页A版重组、长说明改小图标弹窗",
+    "downloadUrl": "https://drive.google.com/file/d/18piEHzgnbTUfBk3LoRPnnC-m4F2mLFUR/view?usp=drivesdk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.2"
   },
   "announcements": [
     {
