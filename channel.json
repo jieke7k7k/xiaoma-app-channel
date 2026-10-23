@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "latest": {
-    "versionName": "2.0.2",
-    "versionCode": 2017,
-    "notes": "2.0.2：修复冷启动误报没课、底栏三键等大去留白、设置页A版重组、长说明改小图标弹窗",
-    "downloadUrl": "https://drive.google.com/file/d/1GQnVvjYcpkkTFquLOpKnGKhq3_3OoVvb/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.2"
+    "versionName": "2.0.3",
+    "versionCode": 2018,
+    "notes": "2.0.3：AI桥设备码一键粘贴（自动复制+复制按钮）；设置页取消二级页，外观条目全部平铺到设置首页",
+    "downloadUrl": "https://drive.google.com/file/d/1Z0nWvUKpENV-ISNM5tEuZvi6yFqrZ-9O/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.3"
   },
   "announcements": [
     {
