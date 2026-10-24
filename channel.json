@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.0.6",
-    "versionCode": 2021,
-    "notes": "2.0.6：设置首页去掉与入口同名的重复小标题；智能助手指令容错（参数别名、按名模糊匹配）+ 参数发错时自动照课程名单纠错重试一次，给课程加备注更稳了",
-    "downloadUrl": "https://drive.google.com/file/d/1CSvTHIkMV6x0CeXLAwb8Sh2EtPnyGCx9/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.6"
+    "versionName": "2.0.7",
+    "versionCode": 2022,
+    "notes": "2.0.7：设置界面按 Taste 简约方向重排——组与组间距统一，智能助手组内两行改成细分隔线，各子页同一节里的设置项之间也加了细分隔线、节间距统一，节标题和行标题字重层级更干净；颜色和功能原样保留，其他界面本版不改",
+    "downloadUrl": "https://drive.google.com/file/d/1p8JigBpUc9iefl5TDqeNlE_51kRIIsuu/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.7"
   },
   "schema": 1
 }
