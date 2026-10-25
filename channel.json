@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.0.7",
-    "versionCode": 2022,
-    "notes": "2.0.7：设置界面按 Taste 简约方向重排——组与组间距统一，智能助手组内两行改成细分隔线，各子页同一节里的设置项之间也加了细分隔线、节间距统一，节标题和行标题字重层级更干净；颜色和功能原样保留，其他界面本版不改",
-    "downloadUrl": "https://drive.google.com/file/d/1p8JigBpUc9iefl5TDqeNlE_51kRIIsuu/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.7"
+    "versionName": "2.0.8",
+    "versionCode": 2023,
+    "notes": "2.0.8：周日提醒改小弹窗不再占横幅；回到本周改右边竖条悬浮按钮，顶栏三按钮位置固定；设置页删掉聊天入口；左上角只显示周数；编辑模式锁滑动、空白点按与长按可新建；午休晚休可在作息时间里自定义起止时间并各自开关显示",
+    "downloadUrl": "https://drive.google.com/file/d/1YE8xWOpFLcbRg9eGPTLmkKDmUkj2cVRt/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.8"
   },
   "schema": 1
 }
