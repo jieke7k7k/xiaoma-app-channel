@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.0.8",
-    "versionCode": 2023,
-    "notes": "2.0.8：周日提醒改小弹窗不再占横幅；回到本周改右边竖条悬浮按钮，顶栏三按钮位置固定；设置页删掉聊天入口；左上角只显示周数；编辑模式锁滑动、空白点按与长按可新建；午休晚休可在作息时间里自定义起止时间并各自开关显示",
-    "downloadUrl": "https://drive.google.com/file/d/1YE8xWOpFLcbRg9eGPTLmkKDmUkj2cVRt/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.8"
+    "versionName": "2.0.9",
+    "versionCode": 2024,
+    "notes": "2.0.9：底部栏和顶部栏都压矮了，底栏 72 收到 56、顶栏贴到屏幕最顶端，省出的高度还给课表；周视图网格线在午休和晚间两条休息带不画了，导出课表图片同步改",
+    "downloadUrl": "https://drive.google.com/file/d/1o_6pA6DyY9Nv_cmwJvzNZC2V7BrnU_lw/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.9"
   },
   "schema": 1
 }
