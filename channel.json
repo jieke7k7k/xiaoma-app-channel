@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.0.9",
-    "versionCode": 2024,
-    "notes": "2.0.9：底部栏和顶部栏都压矮了，底栏 72 收到 56、顶栏贴到屏幕最顶端，省出的高度还给课表；周视图网格线在午休和晚间两条休息带不画了，导出课表图片同步改",
-    "downloadUrl": "https://drive.google.com/file/d/1o_6pA6DyY9Nv_cmwJvzNZC2V7BrnU_lw/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.0.9"
+    "versionName": "2.1.1",
+    "versionCode": 2026,
+    "notes": "2.1.1：底部栏没了，课表往下多出一截；AI 功能全收进「开发者选项」（关于页连点版本号五次解锁）；右上角菜单可自定义（设置 → 菜单管理），关掉的功能在「更多工具」里还能找到；转场 300ms 右滑；课表自动云同步（Supabase 直连），联网自动同步、没网照常用",
+    "downloadUrl": "https://drive.google.com/file/d/13EP4K87OZjA9IWGwyTXgqAl8uhU4nwWd/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.1"
   },
   "schema": 1
 }
