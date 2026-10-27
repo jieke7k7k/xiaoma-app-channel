@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.1.1",
-    "versionCode": 2026,
-    "notes": "2.1.1：底部栏没了，课表往下多出一截；AI 功能全收进「开发者选项」（关于页连点版本号五次解锁）；右上角菜单可自定义（设置 → 菜单管理），关掉的功能在「更多工具」里还能找到；转场 300ms 右滑；课表自动云同步（Supabase 直连），联网自动同步、没网照常用",
-    "downloadUrl": "https://drive.google.com/file/d/13EP4K87OZjA9IWGwyTXgqAl8uhU4nwWd/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.1"
+    "versionName": "2.1.2",
+    "versionCode": 2027,
+    "notes": "2.1.2：底部栏回来了，不过不再是贴底一整条，而是底部居中的悬浮圆角胶囊——平时只有「课表｜设置」两键，解锁开发者选项后多出「助手」键；设置 → 外观新增「底部栏显示」开关（默认开）；底栏开时右上角菜单里的「设置」自动隐藏",
+    "downloadUrl": "https://drive.google.com/file/d/1MkMDKfF894mpqUefM-mA3dk5AC-VINM6/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.2"
   },
   "schema": 1
 }
