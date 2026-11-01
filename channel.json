@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.1.4",
-    "versionCode": 2029,
-    "notes": "2.1.4：周日弹窗改成一天一次——切设置回主页、切周回本周、杀进程重进当天都不再重弹，下个周日重新弹；底部栏新增两种形态可选：通栏贴底（默认）和胶囊贴底，都不悬浮、无阴影，设置→外观里切换，开关关时样式行置灰、重开恢复上次形态；其余功能原样",
-    "downloadUrl": "https://drive.google.com/file/d/1l7LcKSSD9qu3fX54y0z_4OH5vZLPfbZR/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.4"
+    "versionName": "2.1.5",
+    "versionCode": 2030,
+    "notes": "2.1.5：底部栏换成图标+文字标签栏（默认）——白底、顶部细分割线、图标在上文字在下，选中金黄、未选中灰，文案仍是「课表/设置」；胶囊贴底保留，通栏贴底删除，旧存通栏值自动回落到标签栏；进主页整页课表能显示完全，三种栏状态下滑到底最后一节都不被遮挡；其余功能原样",
+    "downloadUrl": "https://drive.google.com/file/d/1MbmHVFxXBAw8vY5WNba9SMsVXSXJuvtc/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.5"
   },
   "schema": 1
 }
