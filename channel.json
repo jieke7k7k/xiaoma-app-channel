@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.1.5",
-    "versionCode": 2030,
-    "notes": "2.1.5：底部栏换成图标+文字标签栏（默认）——白底、顶部细分割线、图标在上文字在下，选中金黄、未选中灰，文案仍是「课表/设置」；胶囊贴底保留，通栏贴底删除，旧存通栏值自动回落到标签栏；进主页整页课表能显示完全，三种栏状态下滑到底最后一节都不被遮挡；其余功能原样",
-    "downloadUrl": "https://drive.google.com/file/d/1MbmHVFxXBAw8vY5WNba9SMsVXSXJuvtc/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.5"
+    "versionName": "2.1.6",
+    "versionCode": 2031,
+    "notes": "2.1.6：底部标签栏液态玻璃化——毛玻璃层独立、50% 宽金黄渐变滑块 380ms 弹簧滑动、选中金黄系（浅色深金黄/深色浅金黄）、按压 90ms 缩到 0.92 松手 350ms 回弹；课表与设置切换改成 260ms 淡入带 0.985→1.0 微缩放，不再重影；胶囊贴底原样保留，留白口径与 2.1.5 一致；其余功能原样",
+    "downloadUrl": "https://drive.google.com/file/d/1Ja8fqJ8UW02dXTW-IiKkeIxQO7gVGXRx/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.6"
   },
   "schema": 1
 }
