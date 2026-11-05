@@ -11,8 +11,8 @@
   "latest": {
     "versionName": "2.1.7",
     "versionCode": 2032,
-    "notes": "2.1.7：底部栏改成「不挡课表」的占位式——胶囊挪到主界面底部专属位置，课表滚动到底停在槽位上方，内容永远不被胶囊盖住，胶囊样子不变；标签栏玻璃改轻透（浅色 sigma 3.5／深色 4.0，底色浅色白 58%／深色 64%），滑块金色调淡、前景色按亮暗分档，对比度达标；云同步整条线删除，数据只存本地；设置页重组为「课表与学期／展示与桌面／数据与安全」三大组，权限自检与关于收进右上角菜单，菜单管理挪到课表工具箱",
-    "downloadUrl": "https://drive.google.com/file/d/1WI9PC7dNFYrJNJIwbYhppgNlG97POs0A/view?usp=sharing",
+    "notes": "2.1.7 同版本修复（未升版）：毛玻璃层整层删除，整片课表不再蒙雾；胶囊形态删除，只留新标签栏；整周课表一屏显示，最后一行不用滚动就看得到。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
+    "downloadUrl": "https://drive.google.com/file/d/1CdYdR-DAuAW35phljHsQ8-LLdXQK0tKs/view?usp=sharing",
     "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.7"
   },
   "schema": 1
