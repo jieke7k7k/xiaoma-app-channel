@@ -11,8 +11,8 @@
   "latest": {
     "versionName": "2.1.7",
     "versionCode": 2032,
-    "notes": "2.1.7 同版本修复（未升版）：毛玻璃层整层删除，整片课表不再蒙雾；胶囊形态删除，只留新标签栏；整周课表一屏显示，最后一行不用滚动就看得到。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
-    "downloadUrl": "https://drive.google.com/file/d/1CdYdR-DAuAW35phljHsQ8-LLdXQK0tKs/view?usp=sharing",
+    "notes": "2.1.7 同版本修复之二（未升版）：切换动效三种都做，做成开关——「设置 → 外观 → 切换动效」里三选一，默认错峰淡入（另有官方淡入、极速淡入）。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
+    "downloadUrl": "https://drive.google.com/file/d/1IqvCitUNQlafuhsuduI1mh6DkCZNVyap/view?usp=sharing",
     "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.7"
   },
   "schema": 1
