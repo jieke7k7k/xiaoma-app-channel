@@ -11,8 +11,8 @@
   "latest": {
     "versionName": "2.1.7",
     "versionCode": 2032,
-    "notes": "2.1.7 同版本修复之二（未升版）：切换动效三种都做，做成开关——「设置 → 外观 → 切换动效」里三选一，默认错峰淡入（另有官方淡入、极速淡入）。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
-    "downloadUrl": "https://drive.google.com/file/d/1IqvCitUNQlafuhsuduI1mh6DkCZNVyap/view?usp=sharing",
+    "notes": "2.1.7 同版本修复之三＋之四＋之五（未升版）：表头改独立软磁贴（今天实心反白、每节 9dp 磁贴）；全 App 圆角加大（卡片 14、弹层 20、弹窗 24）；互查 8 项全修——菜单不再盖顶栏、分隔带不再重影、提醒徽标补授权后消失、旧用户动效默认改柔和、深色底栏/菜单不再染色、短条不吞点击。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
+    "downloadUrl": "https://drive.google.com/file/d/1JfV51FPTywseGaZHWTwi-Sy5lhpV1JyE/view?usp=sharing",
     "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.7"
   },
   "schema": 1
