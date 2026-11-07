@@ -11,8 +11,8 @@
   "latest": {
     "versionName": "2.1.7",
     "versionCode": 2032,
-    "notes": "2.1.7 同版本修复之三＋之四＋之五（未升版）：表头改独立软磁贴（今天实心反白、每节 9dp 磁贴）；全 App 圆角加大（卡片 14、弹层 20、弹窗 24）；互查 8 项全修——菜单不再盖顶栏、分隔带不再重影、提醒徽标补授权后消失、旧用户动效默认改柔和、深色底栏/菜单不再染色、短条不吞点击。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
-    "downloadUrl": "https://drive.google.com/file/d/1JfV51FPTywseGaZHWTwi-Sy5lhpV1JyE/view?usp=sharing",
+    "notes": "2.1.7 同版本修复之三＋之四＋之五＋之六（未升版）：新增春日·游园会、奶油·苏打水、多巴胺·糖果盒、复古·胶片馆 4 套混搭课程配色（旧 6 套保留）；外观页重组为页首预览＋色彩与主题／网格与表头／卡片样式与字体／导航与交互动效 4 组，节次时间设置移入设置首页，刷新小部件与部件状态移入桌面小组件页；顶部预览暂不吸顶。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
+    "downloadUrl": "https://drive.google.com/file/d/1d9Sgwc2MnU_vGBwPkmMaAJUwlNfNuw-3/view?usp=sharing",
     "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.7"
   },
   "schema": 1
