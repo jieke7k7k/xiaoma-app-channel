@@ -11,8 +11,8 @@
   "latest": {
     "versionName": "2.1.7",
     "versionCode": 2032,
-    "notes": "2.1.7 同版本修复之三＋之四＋之五＋之六（未升版）：新增春日·游园会、奶油·苏打水、多巴胺·糖果盒、复古·胶片馆 4 套混搭课程配色（旧 6 套保留）；外观页重组为页首预览＋色彩与主题／网格与表头／卡片样式与字体／导航与交互动效 4 组，节次时间设置移入设置首页，刷新小部件与部件状态移入桌面小组件页；顶部预览暂不吸顶。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
-    "downloadUrl": "https://drive.google.com/file/d/1d9Sgwc2MnU_vGBwPkmMaAJUwlNfNuw-3/view?usp=sharing",
+    "notes": "2.1.7 同版本修复之七＋之八＋之九＋之十（未升版）：导入课表时默认新建学期（新建卡片置顶＋默认勾选＋推荐徽标）、开学日期日历改中文；左上角周数按钮展开时加聚焦框（主题色描边＋微底色）；设置页图标按分组上色（课表蓝／外观紫／提醒橙／备份绿／系统灰）；点开周数跳转条后，点外面任意处收起（只收起、不触发底下操作），滚动也收起。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
+    "downloadUrl": "https://drive.google.com/file/d/1XuhrrZP-YOO_VFfi1zZDXUym1BGi08TW/view?usp=sharing",
     "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.7"
   },
   "schema": 1
