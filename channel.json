@@ -11,8 +11,8 @@
   "latest": {
     "versionName": "2.1.7",
     "versionCode": 2032,
-    "notes": "2.1.7 同版本修复之七＋之八＋之九＋之十（未升版）：导入课表时默认新建学期（新建卡片置顶＋默认勾选＋推荐徽标）、开学日期日历改中文；左上角周数按钮展开时加聚焦框（主题色描边＋微底色）；设置页图标按分组上色（课表蓝／外观紫／提醒橙／备份绿／系统灰）；点开周数跳转条后，点外面任意处收起（只收起、不触发底下操作），滚动也收起。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
-    "downloadUrl": "https://drive.google.com/file/d/1XuhrrZP-YOO_VFfi1zZDXUym1BGi08TW/view?usp=sharing",
+    "notes": "2.1.7 同版本修复之七＋之八＋之九＋之十＋之十一（未升版）：导入课表时默认新建学期（新建卡片置顶＋默认勾选＋推荐徽标）、开学日期日历改中文；左上角周数按钮展开时加聚焦框（主题色描边＋微底色）；设置页图标按分组上色（课表蓝／外观紫／提醒橙／备份绿／系统灰）；点开周数跳转条后，点外面任意处收起（只收起、不触发底下操作），滚动也收起；导入课表时能选作息（用现在的全局作息，还是用课表文件里读到的作息）。版本号仍是 2.1.7，需手动重装，App 内不会提示更新。",
+    "downloadUrl": "https://drive.google.com/file/d/16gAZcPK2TrymotlLGKezoOK41rES01iw/view?usp=sharing",
     "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.1.7"
   },
   "schema": 1
