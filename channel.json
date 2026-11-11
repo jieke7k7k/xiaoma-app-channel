@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.2.0",
-    "versionCode": 2036,
-    "notes": "2.2.0（229＋230）：常驻通知耗电优化——退役前台 Service，改成单个精确闹钟到点唤醒刷新同一条常驻通知，小米不再标高耗电，杀进程后通知也不冻结；全 App 风格统一——三处右上角菜单、19 处弹窗、输入框、单选 Chip 全部走同一套样式，菜单项带彩色小底块。行为一字不改，直接装就行。",
-    "downloadUrl": "https://drive.google.com/file/d/18fOgcJrlwE1LnPuu9tnMS9IFlULKV9BV/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.2.0"
+    "versionName": "2.3.0",
+    "versionCode": 2037,
+    "notes": "2.3.0（231）：新手引导升级——5 条导入路径一览、一键直达，空学期有导入课表/手动加课按钮；权限懒加载——首次启动不再连弹权限申请，开提醒、开常驻通知时才申请，拒绝后开关保持关闭；教务抓取容错——失败时说清原因（断网、未登录、验证码、选错页面、格式未适配）并给对应操作，成功后显示识别出的课程数与节次数；多时段一起编辑——同一门课的不同时段一起改，改一次同步全部时段；输入框标签留空——标签浮起时边框在字的位置断开。行为除以上五项一字不改，直接装就行。",
+    "downloadUrl": "https://drive.google.com/file/d/1ltgJc9GRDX4TahjB233zthimRLn7OU-G/view?usp=sharing",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.3.0"
   },
   "schema": 1
 }
