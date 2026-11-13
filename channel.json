@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.3.0",
-    "versionCode": 2037,
-    "notes": "2.3.0（231）：新手引导升级——5 条导入路径一览、一键直达，空学期有导入课表/手动加课按钮；权限懒加载——首次启动不再连弹权限申请，开提醒、开常驻通知时才申请，拒绝后开关保持关闭；教务抓取容错——失败时说清原因（断网、未登录、验证码、选错页面、格式未适配）并给对应操作，成功后显示识别出的课程数与节次数；多时段一起编辑——同一门课的不同时段一起改，改一次同步全部时段；输入框标签留空——标签浮起时边框在字的位置断开。行为除以上五项一字不改，直接装就行。",
-    "downloadUrl": "https://drive.google.com/file/d/15gHdHhSFfesTpqTi8LdtNqJwDPen2pcf/view?usp=sharing",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.3.0"
+    "versionName": "2.4.0",
+    "versionCode": 2038,
+    "notes": "2.4.0（232）：详情页三个按钮排成一行，删除在左、新增时段居中、编辑在右；选周数可以点头尾、中间自动连选，单周/双周只过滤已选区间内，文本框手输保留；导出图片三处水印全删，分享文字也不带“小马课表”；全站 11 处下拉换成底部抽屉，节次带时间和午休/晚餐分隔行；新增“在课表上选”，在课表上点两下就能定一段时段；作息页改午休分段点后分隔行跟着挪。行为除以上六项一字不改，直接装就行。",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1OtaWEzj-q6Cc9JEOxdKSF3vFrLfe7Cfe",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.4.0"
   },
   "schema": 1
 }
