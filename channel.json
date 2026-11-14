@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.4.0",
-    "versionCode": 2038,
-    "notes": "2.4.0（232）：详情页三个按钮排成一行，删除在左、新增时段居中、编辑在右；选周数可以点头尾、中间自动连选，单周/双周只过滤已选区间内，文本框手输保留；导出图片三处水印全删，分享文字也不带“小马课表”；全站 11 处下拉换成底部抽屉，节次带时间和午休/晚餐分隔行；新增“在课表上选”，在课表上点两下就能定一段时段；作息页改午休分段点后分隔行跟着挪。行为除以上六项一字不改，直接装就行。",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1OtaWEzj-q6Cc9JEOxdKSF3vFrLfe7Cfe",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.4.0"
+    "versionName": "2.5.0",
+    "versionCode": 2039,
+    "notes": "2.5.0（228）：外观设置大瘦身——父页只剩 1 个预览加 8 行，四个专项子页分开管网格与表头、课程卡片样式、显示字体、节次数量与分段规则；线框形态 A：标题在框外左上方，细线框包着子项；三条联动：底部栏关掉就藏切换动效那行，行高自适应开了就藏格子高度滑杆，网格线关了就藏边框粗细滑杆；作息页三段折叠，默认只展开当前时段，段头带时段范围；权限自检搬到设置首页「数据与安全」组里；学期页多了「学期信息」分组标题。行为除以上几项一字不改，直接装就行。",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qHKvyoEEBXkZxkdkrxjO4syZpxpSxDbx",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.5.0"
   },
   "schema": 1
 }
