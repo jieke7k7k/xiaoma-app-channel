@@ -11,8 +11,8 @@
   "latest": {
     "versionName": "2.5.0",
     "versionCode": 2039,
-    "notes": "2.5.0（228）：外观设置大瘦身——父页只剩 1 个预览加 8 行，四个专项子页分开管网格与表头、课程卡片样式、显示字体、节次数量与分段规则；线框形态 A：标题在框外左上方，细线框包着子项；三条联动：底部栏关掉就藏切换动效那行，行高自适应开了就藏格子高度滑杆，网格线关了就藏边框粗细滑杆；作息页三段折叠，默认只展开当前时段，段头带时段范围；权限自检搬到设置首页「数据与安全」组里；学期页多了「学期信息」分组标题。行为除以上几项一字不改，直接装就行。",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qHKvyoEEBXkZxkdkrxjO4syZpxpSxDbx",
+    "notes": "2.5.0 同版本重发（234）：外观页删了「底部栏显示」开关，底部栏永远显示，装上直接回来；「切换动效」行不再跟着藏，永远显示；右上角菜单里不再有「设置」项，设置从底部栏进。还含 233 的跟进：预览外框线整圈清晰、入口行箭头文字对齐、设置页下拉顶部不再变色、作息页三段各自成框加时间块、上课播报默认开；以及 228 的外观大瘦身（父页只剩 1 个预览加 7 行）。行为除以上几项一字不改，直接装就行。",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Sgwraf4cIKYpfBvq1QKt13oHjb4tD5UM",
     "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.5.0"
   },
   "schema": 1
