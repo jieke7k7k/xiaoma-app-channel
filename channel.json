@@ -9,11 +9,11 @@
         }
     ],
     "latest": {
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=12KnLcBo1uQputZoNu-16SDV4lUjzNl0Q",
-        "notes": "2.7.0（238+239+240 合版）：底栏加「今日」键（今日｜课表｜我的），今日视图按上午/下午/晚上分组、带焦点播报条；导出整学期改单张图片（方案 C 一图合集版，1080×1920），PDF 彻底去掉，冲突块只在有冲突的地方用；点铅笔进编辑模式有常驻提示（顶栏「✏️ 编辑模式」胶囊 + 26dp 提示条）；跨带课程卡高修正。导出入口在周视图右上角菜单「导出课表图片」。",
-        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.7.0",
-        "versionCode": 2041,
-        "versionName": "2.7.0"
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1dHrKHUeNrOQW9geHWvnWhr4wCT2yQthE",
+        "notes": "2.8.0：编辑模式提示改悬浮胶囊飘窗（常驻横栏删掉，进编辑模式滑入深棕胶囊，3 秒自动淡出）；编辑模式更明显（背景微调、网格加深、卡片描边 1.5dp、胶囊呼吸一次）；选区框底部加小把手（首次浮动 2 次）+ 28dp 拖动热区；修带子 bug（止于带前的课不再盖午间/晚间带）、整学期单图导出风格对齐。",
+        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.8.0",
+        "versionCode": 2042,
+        "versionName": "2.8.0"
     },
     "schema": 1
 }
