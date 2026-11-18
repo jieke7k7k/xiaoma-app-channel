@@ -9,11 +9,11 @@
         }
     ],
     "latest": {
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1MM5VBas3j4kFL18cMU0a_ur6tJfC9I-z",
-        "notes": "2.9.1：整学期导出图按本周导出图效果对齐（课卡描边/字号与 App 内一致、补网格线、表头底条、带子同高）；跨带卡高随带高改 24dp。",
-        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.9.1",
-        "versionCode": 2044,
-        "versionName": "2.9.1"
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1bUxlZesh67YmQceMCTxKlRuvIO3GSPQW",
+        "notes": "2.9.2：整学期导出图标题精简成一行（学期名 + 课表 + 日期范围 + 共 N 周），副标题与「全学期」字样已删。",
+        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.9.2",
+        "versionCode": 2045,
+        "versionName": "2.9.2"
     },
     "schema": 1
 }
