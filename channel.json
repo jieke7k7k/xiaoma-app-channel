@@ -9,11 +9,11 @@
         }
     ],
     "latest": {
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=123MljiLwZAaIFKZOgSq1CZMVCqu8Oohg",
-        "notes": "2.9.0：导出风格二次对齐（画布底色、分隔带、课卡分行与 App 内一致）；本周与整学期导出都支持保存到本地相册。",
-        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.9.0",
-        "versionCode": 2043,
-        "versionName": "2.9.0"
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1MM5VBas3j4kFL18cMU0a_ur6tJfC9I-z",
+        "notes": "2.9.1：整学期导出图按本周导出图效果对齐（课卡描边/字号与 App 内一致、补网格线、表头底条、带子同高）；跨带卡高随带高改 24dp。",
+        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.9.1",
+        "versionCode": 2044,
+        "versionName": "2.9.1"
     },
     "schema": 1
 }
