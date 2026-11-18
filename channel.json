@@ -9,11 +9,11 @@
         }
     ],
     "latest": {
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1dHrKHUeNrOQW9geHWvnWhr4wCT2yQthE",
-        "notes": "2.8.0：编辑模式提示改悬浮胶囊飘窗（常驻横栏删掉，进编辑模式滑入深棕胶囊，3 秒自动淡出）；编辑模式更明显（背景微调、网格加深、卡片描边 1.5dp、胶囊呼吸一次）；选区框底部加小把手（首次浮动 2 次）+ 28dp 拖动热区；修带子 bug（止于带前的课不再盖午间/晚间带）、整学期单图导出风格对齐。",
-        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.8.0",
-        "versionCode": 2042,
-        "versionName": "2.8.0"
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=123MljiLwZAaIFKZOgSq1CZMVCqu8Oohg",
+        "notes": "2.9.0：导出风格二次对齐（画布底色、分隔带、课卡分行与 App 内一致）；本周与整学期导出都支持保存到本地相册。",
+        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.9.0",
+        "versionCode": 2043,
+        "versionName": "2.9.0"
     },
     "schema": 1
 }
