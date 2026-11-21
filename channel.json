@@ -9,11 +9,11 @@
         }
     ],
     "latest": {
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=1bUxlZesh67YmQceMCTxKlRuvIO3GSPQW",
-        "notes": "2.9.2：整学期导出图标题精简成一行（学期名 + 课表 + 日期范围 + 共 N 周），副标题与「全学期」字样已删。",
-        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.9.2",
-        "versionCode": 2045,
-        "versionName": "2.9.2"
+        "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.11.0/xiaoma-timetable-2.11.0-arm64.apk",
+        "notes": "2.11.0：教务导入先进选校器，自动检查作息与周数；App 内直接下载新版；卡片样式新增四个显示开关。",
+        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.11.0",
+        "versionCode": 2047,
+        "versionName": "2.11.0"
     },
     "schema": 1
 }
