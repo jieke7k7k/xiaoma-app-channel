@@ -9,11 +9,11 @@
         }
     ],
     "latest": {
-        "versionName": "2.12.0",
-        "versionCode": 2048,
-        "notes": "2.12.0：学校库全量拉取（1688 所）+ A-Z 索引栏；选校器分组、跳转与搜索态隐藏。",
-        "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.12.0/xiaoma-timetable-2.12.0-arm64.apk",
-        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.12.0"
+        "versionName": "2.13.0",
+        "versionCode": 2049,
+        "notes": "2.13.0：UI 交互与按钮统一（+ 号改弹出菜单、关于下沉底部、底部操作栏 48dp、详情双键、编辑页单保存、键盘顶起保存按钮）。",
+        "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.13.0/xiaoma-timetable-2.13.0-arm64.apk",
+        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.13.0"
     },
     "schema": 1
 }
