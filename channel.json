@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.14.2",
-    "versionCode": 2052,
-    "notes": "2.14.2：DeepSeek 复审跟进——去修改作息先应用读到的作息再跳转去微调；松散作息解析收紧（区间须带节字、无表头表单行不收、显式/裸行分开编号）；三档弹窗抽公共外壳；banner 与弹窗文案口径统一；时间轴阈值加边界测试。",
-    "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.14.2/xiaoma-timetable-2.14.2-arm64.apk",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.14.2"
+    "versionName": "2.15.0",
+    "versionCode": 2053,
+    "notes": "2.15.0：选校器索引栏按住拖动快速选择——按住右侧字母轴上下拖动，滑到哪个字母就跳到哪组；拖动中当前字母高亮、中央浮现大字母气泡，松手消失；点按单个字母仍可跳转。",
+    "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.15.0/xiaoma-timetable-2.15.0-arm64.apk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.15.0"
   },
   "schema": 1
 }
