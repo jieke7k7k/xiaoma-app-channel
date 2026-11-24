@@ -9,11 +9,11 @@
         }
     ],
     "latest": {
-        "versionName": "2.13.0",
-        "versionCode": 2049,
-        "notes": "2.13.0：UI 交互与按钮统一（+ 号改弹出菜单、关于下沉底部、底部操作栏 48dp、详情双键、编辑页单保存、键盘顶起保存按钮）。",
-        "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.13.0/xiaoma-timetable-2.13.0-arm64.apk",
-        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.13.0"
+        "versionName": "2.14.0",
+        "versionCode": 2050,
+        "notes": "2.14.0：三处弹出菜单顺序统一（⋮ 菜单高频优先：导出课表图片 / 考试倒计时 / 空闲时段 / 课程搜索 / 学期管理；学期行菜单切换在前），导入页（教务官网最前）与课表工具页按高频优先重排。",
+        "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.14.0/xiaoma-timetable-2.14.0-arm64.apk",
+        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.14.0"
     },
     "schema": 1
 }
