@@ -9,11 +9,11 @@
         }
     ],
     "latest": {
-        "versionName": "2.14.0",
-        "versionCode": 2050,
-        "notes": "2.14.0：三处弹出菜单顺序统一（⋮ 菜单高频优先：导出课表图片 / 考试倒计时 / 空闲时段 / 课程搜索 / 学期管理；学期行菜单切换在前），导入页（教务官网最前）与课表工具页按高频优先重排。",
-        "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.14.0/xiaoma-timetable-2.14.0-arm64.apk",
-        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.14.0"
+        "versionName": "2.14.1",
+        "versionCode": 2051,
+        "notes": "2.14.1：补录 327 所学校（学校库 1688 → 2015 所）；大连海洋大学改统一身份认证地址，补 12 节作息预设；作息解析兜底适配所有学校（独立节次时间表与页面全文）；导入后作息时间必弹窗确认，读到或没读到都问，不再默认沿用旧作息；周末默认显示全部 7 天；时间轴显示下课时间。",
+        "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.14.1/xiaoma-timetable-2.14.1-arm64.apk",
+        "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.14.1"
     },
     "schema": 1
 }
