@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.16.0",
-    "versionCode": 2054,
-    "notes": "2.16.0：主页顶部状态条过长时自动滚动显示；全应用文案精简为正式表达；设置「权限自检」直接打开权限页；回到本周竖条长按无高亮框；课程搜索框移至页面顶部；课表工具导出与主页一致，可选整学期或当前周；工具页图标统一为设置页同款。",
-    "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.16.0/xiaoma-timetable-2.16.0-arm64.apk",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.16.0"
+    "versionName": "2.16.1",
+    "versionCode": 2055,
+    "notes": "2.16.1：按三轮全面检查的 66 项清单统一修了一遍（崩溃与数据错乱、通知链路、逻辑不一致、性能与资源、体验与文案、测试修复）；页面停留跨午夜不再重算今天是第几周；设置页数据加载失败时不再把原始报错抛给界面。",
+    "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.16.1/xiaoma-timetable-2.16.1-arm64.apk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.16.1"
   },
   "schema": 1
 }
