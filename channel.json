@@ -9,11 +9,11 @@
     }
   ],
   "latest": {
-    "versionName": "2.15.0",
-    "versionCode": 2053,
-    "notes": "2.15.0：选校器索引栏按住拖动快速选择——按住右侧字母轴上下拖动，滑到哪个字母就跳到哪组；拖动中当前字母高亮、中央浮现大字母气泡，松手消失；点按单个字母仍可跳转。",
-    "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.15.0/xiaoma-timetable-2.15.0-arm64.apk",
-    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.15.0"
+    "versionName": "2.16.0",
+    "versionCode": 2054,
+    "notes": "2.16.0：主页顶部状态条过长时自动滚动显示；全应用文案精简为正式表达；设置「权限自检」直接打开权限页；回到本周竖条长按无高亮框；课程搜索框移至页面顶部；课表工具导出与主页一致，可选整学期或当前周；工具页图标统一为设置页同款。",
+    "downloadUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/download/v2.16.0/xiaoma-timetable-2.16.0-arm64.apk",
+    "releaseUrl": "https://github.com/jieke7k7k/xiaoma-timetable/releases/tag/v2.16.0"
   },
   "schema": 1
 }
